@@ -6,4 +6,4 @@ Its done by scraping all the tweets belonging to general stock market tags and t
 The positivity or the negetivity of the tweets do not actually matter for this strategy as the most talked abbout stocks are needed so that they can be watched over the trading hours.
 The X Path Will change in the future, the script might get redundant.
 
-#Note : It miight be difficult to recreate this project and no requirements are provided. The requirements will not be provided, this script is just meant to be stored here, probably will never be used.
+# Note : It might be difficult to recreate this project as no requirements are provided. The requirements will not be provided, this script is just meant to be stored here, probably will never be used.
